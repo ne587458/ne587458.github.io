@@ -1,0 +1,1426 @@
+{
+  "data": [
+    {
+      "name": "battlePassPaymentInfo",
+      "md5": "b51fbe0483afc52b9448a2ad750e83e0",
+      "hash": "fXXyHJEXrhsNgKWMvvpx+40+l9VqviLnNrkss0g5m6Tm7gPNTuFjyFJFTKj+t2mDE2Moim3v8mYJ7ZHJ1ABwx63+WkfBR+8=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/battlePassPaymentInfo/battlePassPaymentInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 43,
+      "rows": 1,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "cardSellSoulUpInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEDjTrN+GrEQhHZK9fob2G2Jno=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/cardSellSoulUpInfo/cardSellSoulUpInfo-20241007000102-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "floorUnlockConditionsInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEGgCfG2VrGQi3VNfjScUyxNHxPz+ITeCdo",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/floorUnlockConditionsInfo/floorUnlockConditionsInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "gameCurrency",
+      "md5": "2367aa0f58285abde6177025141ad55f",
+      "hash": "I2FhclgxcfDkpEH9FNFug+2Pd61o6bRJVsZZvEbLRNnayHnmvNyfcrsfB5IlWM+AjR3XqpfpoyWFSIwgl2s=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/gameCurrency/gameCurrency-20241007200104-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 16469,
+      "rows": 50,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "guildAllianceWarBaseInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEHmSHFz07EQivXMNjYSEmqAnRTxNg0cC4=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/guildAllianceWarBaseInfo/guildAllianceWarBaseInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "locationStageInfo",
+      "md5": "d772c5f55099889a9b77e49a069ac25f",
+      "hash": "EQluRKaiJt9kewNy4SbifHCUz8ew/XXEQkj/3tPLZ4Qcwo6HKdOINnSZ4y8S84av1XK1Z8X5y7NrqX2JG23CZyL29g==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/locationStageInfo/locationStageInfo-20241008120108-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 601,
+      "rows": 5,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "floorMiniGameInfo",
+      "md5": "506a2aeee0d683b6fe86c88a8c78e078",
+      "hash": "UZlDGJ3t3ZMRtXWYPGcBylXINDLkLczj7NwpPmEADP9CATaYCZPVeiip2K73xZBXR8jb/51xxPcV+0cjsDxDMyv4sg==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/floorMiniGameInfo/floorMiniGameInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 184,
+      "rows": 6,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "martInfo",
+      "md5": "42171c01c496d98edfa16130f8c9472c",
+      "hash": "c3Rp3ESdxLsJSIvLcSI9YkwgaOpldpccXC3nGYoB0QCX5oVR5aazGUF6XwDOP2pkn4X8OTL1ufNrEg==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/martInfo/martInfo-20241007200105-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 5728,
+      "rows": 15,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "gameCurrencyType",
+      "md5": "8f56df4a9fa7df049157cb8459f1487c",
+      "hash": "I8+YgW2m2CcMepmCTSQpNM4Z45kBzA6NsANQ4IU5N/kOa5O63PtVkgsFv1tXC1zv+tD9zsXaFB+NKHhJHh4Nnvx7",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/gameCurrencyType/gameCurrencyType-20241007172950-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 2344,
+      "rows": 12,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "floorMenuTemplate",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEGgCfG2ULNQDfiO9bNc0msJQ==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/floorMenuTemplate/floorMenuTemplate-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "idleGameInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEJiCTM7G7FSwvYONQ=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/idleGameInfo/idleGameInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "memoryTransmigrationBaseInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIENiSXG2Xb8XCPYLdbUeFq5NHxPz9M7ZSROexFd",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/memoryTransmigrationBaseInfo/memoryTransmigrationBaseInfo-20240930000103-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "miniGameMenuTemplate",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIENhSbA7G7FSw/TMM7pekWoLHRUxA==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/miniGameMenuTemplate/miniGameMenuTemplate-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "questBoardMenuTemplate",
+      "md5": "5b85db355394d4b7c6239c59cf659d6a",
+      "hash": "TWt2em+hMnz4SKw9ApJozNXG0ARyHpCX3DIzEldPHw33MuMwpN9N0RcrGVYNycDRaxgxddNs/bHJlDXwmT5Irc2bMO3aEzCO",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/questBoardMenuTemplate/questBoardMenuTemplate-20240926180103-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 1632,
+      "rows": 13,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "monsterAdvanceLevelMaterialExchange",
+      "md5": "891b2fc30bd60471a418cc599440fa89",
+      "hash": "KRia9dOfOBKIWq9l1JXtaRdIzD7Wa4ZFrX4EC5rRr2iGlc2uuHPQFT02EUDdrtSQrqPDsuvrrFxSrmt7Q6yTMn2I9Cxft2nYsolFJdrXuqNh0OnXeA==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/monsterAdvanceLevelMaterialExchange/monsterAdvanceLevelMaterialExchange-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 80,
+      "rows": 5,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "tabMenuTemplate",
+      "md5": "368ee16ddccd1141e1d7ef772a6a6f71",
+      "hash": "VKS+ILsc0XwpLy1QoiYD/za8G9zGHjT4ndi2BI8vunVSMJyKUBGtKNdL7Hw2uQTmMzdBvrERxg4/uuVvfFbXpuY=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/tabMenuTemplate/tabMenuTemplate-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 2134,
+      "rows": 2,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "shopMenuTemplate",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEThCfZ5mrGWxbTM8vRfly9",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/shopMenuTemplate/shopMenuTemplate-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "questTemplate",
+      "md5": "b88ebd8181a05d922300c08bff715620",
+      "hash": "iDNiADbiGL9H+RBmoVj0lzT9SHF8XG6IlwqvfC14cQXlCE5hWArxaQ4pT9A9WnYuZTuw8GgrNgKFW+bnHWms",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/questTemplate/questTemplate-20241009103937-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 80155,
+      "rows": 91,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "secretBaseFurnishingInfo",
+      "md5": "64c7e52a248dbee3f24e34b7c9d0b16c",
+      "hash": "iZ8vY4vROTC5jUW4sPvTJr2t66UiAhHCROHm3mxJNsFiah2W4yij+u/v8o0ig9719Rqu00S+2n/9dMD/FqFNa9muWe5BpQqyJus=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/secretBaseFurnishingInfo/secretBaseFurnishingInfo-20241007200105-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 16652,
+      "rows": 80,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "questInfo",
+      "md5": "65bd66e8768edcbeea077555b223d229",
+      "hash": "c8/Sz/DtyRH1VQRh0LK5L7nBCMPYv7bb0SBR2vRK60k9X6H4K0pa9AD8Kdj/pqitRL9rwdUygjdtN7U=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/questInfo/questInfo-20241009104246-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 2642,
+      "rows": 9,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "worldMapRewardInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEXgzrFz0LJXhDTKdrPe2G2Jno=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/worldMapRewardInfo/worldMapRewardInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "realmExplorationMazeMarkerInfo",
+      "md5": "3ed50c80ad951ab6bdb445a86c9ffeb0",
+      "hash": "kNUCdj5ojl9/9IqeyR4Lg8Xl0mNL5DjxcbMkNf1J6Vob+JccekhFDIs77QHDLmRBFKGKI+SRx951U68DH3NbP1rsdoee9QZIJoUvjWZNrb4=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/realmExplorationMazeMarkerInfo/realmExplorationMazeMarkerInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 1729,
+      "rows": 14,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "mechPuzzleBlueprintConfigurationInfo",
+      "md5": "e209f060b804c68f4955363a162ac70e",
+      "hash": "YucNch0Xiy5lkKp5BWYAWazrSxLjt0NcyhQvxR6xABysJ2BpD77UuxrxmeycLfgi5LnnUO4s6P6S8agiJjv5U6NsyydCn8uEVskA9TshK0qzaInpND8=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/mechPuzzleBlueprintConfigurationInfo/mechPuzzleBlueprintConfigurationInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 3302,
+      "rows": 4,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "rewardClaimFilterInfo",
+      "md5": "1fd106c925903adab82c4651d923a80b",
+      "hash": "/Qz0HrvUXwvbOQ1Rfaeg79NsbcOMCakCDd8RjiSUyxi4WlUqO0cUrSryzyFcC9uEcm5d8GOc5puBOVQx+4E/m4fjNSJZ3yA=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/rewardClaimFilterInfo/rewardClaimFilterInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 516,
+      "rows": 7,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "secretBaseOperationInfo",
+      "md5": "ecc42e23653af0bbdfaabfa3b0010101",
+      "hash": "biVsmbcYbVVjuKhZrtGrfDn6mmbg0jtI3jPKVbEPzgM3OnUmB3as7QXA6drQJixFfWE35okOxnzi1mi0fvVrl3SR413jVZ+r5A==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/secretBaseOperationInfo/secretBaseOperationInfo-20240926000105-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 907,
+      "rows": 5,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "mechPuzzleBaseInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIENiSvB+3rSVC7THNrOemG2Jno=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/mechPuzzleBaseInfo/mechPuzzleBaseInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "battlePassBaseInfo",
+      "md5": "d4f905356e53ec137d8acc3249a44ecf",
+      "hash": "1VEYeiMXAHentiDd3ErsvodcslISo/7YGEvAjPuiJhFLEbxeOv/VuWRVHJoI1lQSJHN1fB6LaLiBEttYm2l7cbMeTiE=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/battlePassBaseInfo/battlePassBaseInfo-20241007122714-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 4305,
+      "rows": 1,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "floorCompleteMonsterBonusInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEGgCfG2UzHQzLaO8/YUke2M2FF09M1eDR0XBlUEA==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/floorCompleteMonsterBonusInfo/floorCompleteMonsterBonusInfo-20241007000102-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "menuBoardTemplate",
+      "md5": "dd4ac32cef0ba59e8e79cb8b2c123a99",
+      "hash": "OYLsANtRy6GMnZZnlBW75QfZVOPQTYkQHujPQ6sxFgr27n/x+Mu5+YYyqKXvJfHZZrJUWlwprb3BeCsXVGW4mBn9KQ==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/menuBoardTemplate/menuBoardTemplate-20241007180940-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 3343,
+      "rows": 3,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "bannerMenuTemplate",
+      "md5": "89274198634a0289f8cdce318560c44d",
+      "hash": "6gvqNWu0mYwHFJEqQcbD2vV/mDdE99Hghl9zc3Qh56wTbTbqzAAOJKNn0i0WN86Bt9KderOvZ0YaGx8SqPRzXoPxkmA=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/bannerMenuTemplate/bannerMenuTemplate-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 1606,
+      "rows": 2,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "missionCampaignInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIENhTvawmDGbSPbLtrUeEaRLnNP",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/missionCampaignInfo/missionCampaignInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "monsterDragonPreferenceInfo",
+      "md5": "486114a2c794bc342796bccbc6042e8f",
+      "hash": "sXJEf3X7Ep+lCUFrrJk0/9bQXuT1VH4ofwK4t3N0mhbpEa93ZfKx26PxfmfNutOweBjJOlsZsCXIWWg9gvjlP5ip/1ropWKt78rNL3U=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/monsterDragonPreferenceInfo/monsterDragonPreferenceInfo-20241007200105-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 48471,
+      "rows": 661,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "monsterSideStoryInfo",
+      "md5": "24a01baf1accd05edb92ec5e439a56dd",
+      "hash": "KK3lRfni0EEY11jpnj0jh1erW4N+4ONNgw4VxqaZ5GymXQ/aCibLaDPNtY+mFRl/ogpLZKRbmCXQLGRy6XzMQ1XzL2b6Dw==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/monsterSideStoryInfo/monsterSideStoryInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 7206,
+      "rows": 83,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "petFarmBaseInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEQiTzvyn3FbCPFO/LTeUc=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/petFarmBaseInfo/petFarmBaseInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "questBoardInfo",
+      "md5": "def5741ec1a630231aea08c7a6f01653",
+      "hash": "t+uY3labUK4GGYALOdjaAQL33bf+a+0WyrW7arB8u2POTWo/Ds32mVCaYUJYd+rpuffPrZVCLOexnCwblapf9A==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/questBoardInfo/questBoardInfo-20241007200105-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 312,
+      "rows": 2,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "stagesUnlockConditionsInfo",
+      "md5": "df7fae8cae7c6775902eeb6f5adcd17b",
+      "hash": "6edSRyv4MmbqasxXpaZZkXx5B6TA64JRNP7NuSEI78hLqHJ8Uru9oFSZw8cAOgi5FcbfT5Onqf8cTEg7obstld4l0baHGNbU/QKKdA==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/stagesUnlockConditionsInfo/stagesUnlockConditionsInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 190,
+      "rows": 3,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "secretBaseRoomSlotInfo",
+      "md5": "7ab82d17428a02fb34e180a543904606",
+      "hash": "rDgcYaSDNh955IEkJkZxogECFLJpam1qvCW5P3UR4IWC4mKSVXtF2GYXwDQDrOj1/LWK99Sj08ugtPBnYvXCSuyfxIuO3iAe",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/secretBaseRoomSlotInfo/secretBaseRoomSlotInfo-20241006120102-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 3303,
+      "rows": 10,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "secretBaseRefineryInfo",
+      "md5": "52e27d04ad554da86ac79f50e12ab119",
+      "hash": "b65+EZ5+wiQPGL9cQQX9aHPuFvsK3k0vZ7MSm2HwIxl51Iqu0X4pzrjDh4L9cA1JrXXbAwqrlf1XcsxoMCYYgjmSHl1Pe6SS",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/secretBaseRefineryInfo/secretBaseRefineryInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 418,
+      "rows": 3,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "rentHelpersInfo",
+      "md5": "bcb61e9098908c88ce2626b1e830f747",
+      "hash": "2RxFx40ZKMbxlODNSya2MwU+7PmufvKn1IeENe+Ax0ZIiFez53imKKzc8lYAYfNWIIB0S/vot7YLbL2feQMisoo=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/rentHelpersInfo/rentHelpersInfo-20241008000104-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 37726,
+      "rows": 99,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "treasureChestPool",
+      "md5": "e8d0649bf493c937b0bd0fc6d6930c8c",
+      "hash": "XbaNS20GofNXixwyRpDH+pdscLJikwoEq1ZKAn4lHG2KAvFc1rvT84F7ukyChYA0LLJjFtV5Ohx6x/GtH61J1GaSjQ==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/treasureChestPool/treasureChestPool-20241004162828-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 114803,
+      "rows": 70,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "mechPuzzleAchievementInfo",
+      "md5": "adab2f592e75761778af26913411d183",
+      "hash": "RJG7vdnK9vt/4RhAT0iVxh5hVAGfVNPWoLjb055GWNeuia18+I+HANkhlGFhkUiyHEc0aaIs29MmcFG6JrxB5884iW3H5NxmRpuQ",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/mechPuzzleAchievementInfo/mechPuzzleAchievementInfo-20241007200105-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 1138,
+      "rows": 19,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "chrononSeriesInfo",
+      "md5": "a30516a219675147e4ae0d9b8caf22e3",
+      "hash": "4cP2z2kBN2IxG7TPPEE0eWdMbBp2sSO0VvU6yarHbO5ZgFpZmV+ugjfXbFd5UhGtJVNuN2vxG/Ak2lz5zga2OSeRiA==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/chrononSeriesInfo/chrononSeriesInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 511,
+      "rows": 1,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "chrononLevelTypeInfo",
+      "md5": "2e4a73dae3102b7cbafb25ffc48a7a1e",
+      "hash": "iTiNQsCiI10QOS/wHDJuxSxHGhSj2dVu34QiQMC0EcaVWtM0g79W8V1txfLJqHnBcrVo6XXKkbBgRhVjARDLWVH9lDqNBw==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/chrononLevelTypeInfo/chrononLevelTypeInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 902,
+      "rows": 4,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "coalitionalContestInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEDgynFwnvBQSzXMvjScVy9M2Fpz/c1",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/coalitionalContestInfo/coalitionalContestInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "summonerInfo",
+      "md5": "5ae8108abed055ba1bf8414e01bdb2de",
+      "hash": "+88EzuiGZrOdNyiCokIdIs+2ctUwyN1znU4jf+RAsLDGIbL4oK1lKsRoxWk70f0aFgtpfwIADEG3kqlDyw8=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/summonerInfo/summonerInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 2411,
+      "rows": 3,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "martShopInfo",
+      "md5": "c2478594cd4b2d16b3ee813c393d761c",
+      "hash": "os4P6KI36X/9qy9k4VwhUAYoRPhlO6fweVTF5ftAra5on6RgLftcfXu+93uTmiGMAgUvMHVmP29qfNhH8eI=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/martShopInfo/martShopInfo-20241007200105-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 13917,
+      "rows": 52,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "idleGameMenuTemplate",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEJiCTM7G7FSw/TMM7pekWoLHRUxA==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/idleGameMenuTemplate/idleGameMenuTemplate-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "dialogueMenuTemplate",
+      "md5": "90155e3b6411fe70b3e0bbce4e305f2c",
+      "hash": "wRVnkmWyh8llImMOpWVEeTmf4KdUunTIBJdDrzpNOy399qsOGcKhDnRnOaYStdD7B51mBso1x7xOrW8GYwLzhzhmz+p4TQ==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/dialogueMenuTemplate/dialogueMenuTemplate-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 167,
+      "rows": 1,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "miniGameConfig",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIENhSbA7G7FSwHZMN3UeA==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/miniGameConfig/miniGameConfig-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "monsterAdvanceLevelMaterialRequirement",
+      "md5": "73daecae0252847f3fbba440f8360624",
+      "hash": "ahpae33cekWiSVPkZsqS2MTY1zRWcpHML8bI77iXfKb88sLB404R9b+yWoVSxeG9tGf8illGFT0yvnzp0GlqxlMbwFSjSLZPo1096/eRwIanBsO54LybgQ==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/monsterAdvanceLevelMaterialRequirement/monsterAdvanceLevelMaterialRequirement-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 1076,
+      "rows": 120,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "multiTeamFloorInfo",
+      "md5": "a4437aa0a6ee986c3690576c20a2ca15",
+      "hash": "EQAwqodSUNer+N0cvFBmS55CkpU8liSTxmu94ivYiwLHzj3+a+If5RV8X0aoY+xSRUW1w3mtaE3x8Xl9+0pv1E++gjM=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/multiTeamFloorInfo/multiTeamFloorInfo-20241003130104-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 4302,
+      "rows": 25,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "questBoardTemplate",
+      "md5": "d747e016f25bc244fc2ca55769883736",
+      "hash": "vqMeLj9wzDGPToEt1fs5QIsRwJ+HmL6HHl0IcwsBmkCqTTHZvcfvESdYe0QByphASZRn5OXbBX/+whB7cAxxdhbeRDw=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/questBoardTemplate/questBoardTemplate-20241007163054-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 2618,
+      "rows": 13,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "realmExplorationInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIESiSnFxkrQXi7ZLNrJdke2CXtGzg==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/realmExplorationInfo/realmExplorationInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "secretBaseCharacterInfo",
+      "md5": "0d68d20a0050227e2919dcf28839782e",
+      "hash": "OnFkBsryVU0cJ+6v0pHOMUiq70i2bTlgLcD55K+cqP3Aq4+pX8A+tYMpIrN5yYvbOqTwEjdWdP543R/xakjb2R9o9WqbDLIXnA==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/secretBaseCharacterInfo/secretBaseCharacterInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 1457,
+      "rows": 7,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "vouchers",
+      "md5": "413f1b2a29be8176d3c7044f6ddc6cc3",
+      "hash": "zzeWW8kklHDFFkXjaYacioFW9JPbTK24Rm8NGI+mxK41hVOHlTS9N4kEB5tsTBnGC5rZvYBwiCauig==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/vouchers/vouchers-20241008000104-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 24393,
+      "rows": 33,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "leaderboardInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEMiSnNzn3KQSPEOvLTeUc=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/leaderboardInfo/leaderboardInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "monsterEvolutionTree",
+      "md5": "ca8d66f10d6f10122e4ad2784c03b747",
+      "hash": "pfsgbTxyt9pcsu5E4w7vqgMMDb9KbdUBn+gORUUbE0f85ruA0O7LfXkPhskwM7p3ZCqCnzZHah9fmwBekDvITdWPTpAkfA==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/monsterEvolutionTree/monsterEvolutionTree-20241007200105-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 226742,
+      "rows": 550,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "areaExpansionInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEBni3I7nfYTyzFN9TTVka+Lw==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/areaExpansionInfo/areaExpansionInfo-20241007000102-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "boardGameBaseInfo",
+      "md5": "ff7ebd3c37bfa5700cc636acb1606709",
+      "hash": "mjSPRV4GRJ4lsAW+30T9UGk58XzCgRwZwTZFBHuhUJlWfhmaQRxrHcfG6f5Jsn1QQpPopHADqsT8dhfsSDO7SbpJDg==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/boardGameBaseInfo/boardGameBaseInfo-20241006120103-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 2232,
+      "rows": 1,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "guildEmblemInfo",
+      "md5": "2fcf510026df078eea809e0e359414b8",
+      "hash": "SGX2RARnXKSmedzd0t4oc7Nmryr6HSkxOeL2bkB2GmgihWqsSjg615h407SF+i6IGT3HFY2fvcVxUT9R0VpfL5Y=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/guildEmblemInfo/guildEmblemInfo-20241007200105-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 3606,
+      "rows": 76,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "realmExplorationMazeItemInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIESiSnFxkrQXi7ZLNrJdke2DXRaxNgucyxOexFd",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/realmExplorationMazeItemInfo/realmExplorationMazeItemInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "cardClashInfo",
+      "md5": "ce16412345bfab1b6d1bef6fc6250d09",
+      "hash": "JDSjVszwfconWXpMO+WccgOfIWBgAr/hMzlnez5wVxEUfUaUaiadsmOHHSaJ9jT4pE+Y7h/ahWES2HAMJ7tn",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/cardClashInfo/cardClashInfo-20241006120103-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 226,
+      "rows": 1,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "guildAllianceWarGuildLevelInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEHmSHFz07EQivXMNjYSEmqB2BJzfUWczdieT5cGWE=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/guildAllianceWarGuildLevelInfo/guildAllianceWarGuildLevelInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "guildAllianceWarMerchantItemInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEHmSHFz07EQivXMNjYSEmqDXBSwvk7eDVOYRJfNmA77g==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/guildAllianceWarMerchantItemInfo/guildAllianceWarMerchantItemInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "guildAllianceWarUpgradeCostInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEHmSHFz07EQivXMNjYSEmqFWVH0/A+cwJoZgN7EWgy",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/guildAllianceWarUpgradeCostInfo/guildAllianceWarUpgradeCostInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "guildAllianceWarRewardInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEHmSHFz07EQivXMNjYSEmqEnBXwOM+Xy9heg==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/guildAllianceWarRewardInfo/guildAllianceWarRewardInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "guildAllianceWarBattleInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEHmSHFz07EQivXMNjYSEmqAnRU1f0/Xy9heg==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/guildAllianceWarBattleInfo/guildAllianceWarBattleInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "guildAllianceWarMonsterBonusInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEHmSHFz07EQivXMNjYSEmqDXpO0uU/ZANoewJBNmA77g==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/guildAllianceWarMonsterBonusInfo/guildAllianceWarMonsterBonusInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "martPromotionSchedule",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIENjTrd+33HQy3CN9TTTEuwJXFVzfQ=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/martPromotionSchedule/martPromotionSchedule-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "idleGameLevelInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEJiCTM7G7FSw7TKN7RVka+Lw==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/idleGameLevelInfo/idleGameLevelInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "idleGameLevelScheduleInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEJiCTM7G7FSw7TKN7RTEuwJXFVzfQTeCdo",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/idleGameLevelScheduleInfo/idleGameLevelScheduleInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "idleGameMonsterInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEJiCTM7G7FSw/ZMMjJelqRLnNP",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/idleGameMonsterInfo/idleGameMonsterInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "memoryTransmigrationMonsterBonusInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIENiSXG2Xb8XCPYLdbUeFq5NHxPz9w1eDJzcAVwEGAo8q97SYg=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/memoryTransmigrationMonsterBonusInfo/memoryTransmigrationMonsterBonusInfo-20240923000105-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "memoryTransmigrationRewardInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIENiSXG2Xb8XCPYLdbUeFq5NHxPz8M/YSB1cT5cGWE=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/memoryTransmigrationRewardInfo/memoryTransmigrationRewardInfo-20240930000103-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "memoryTransmigrationMerchantItemInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIENiSXG2Xb8XCPYLdbUeFq5NHxPz9w/ZCJvdBlGNno47K97SYg=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/memoryTransmigrationMerchantItemInfo/memoryTransmigrationMerchantItemInfo-20240930000103-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "memoryTransmigrationWaveInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIENiSXG2Xb8XCPYLdbUeFq5NHxPz8Y7YCROexFd",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/memoryTransmigrationWaveInfo/memoryTransmigrationWaveInfo-20240930000104-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "memoryTransmigrationMemoryBallInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIENiSXG2Xb8XCPYLdbUeFq5NHxPz9w/ey51bDVTE2IU74B6",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/memoryTransmigrationMemoryBallInfo/memoryTransmigrationMemoryBallInfo-20240930000104-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "battlePassLevelInfo",
+      "md5": "00dc4cab8b20f60df99d537993128829",
+      "hash": "buwf98LEnQE0eQd0lm6C3WPj+AyQeWbUFcvjFewFSc0VrcqS31LFQkfT9ASgrbx5bAifV4CIOQmAHAPlA4M228ODcn/7",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/battlePassLevelInfo/battlePassLevelInfo-20241007120105-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 7724,
+      "rows": 100,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "battlePassRewardInfo",
+      "md5": "7622999a8e5383881de4b483cc2f9c95",
+      "hash": "4l1fPFd/+ndRXtKKqtupjm2HAtVuGozYkn1fuUdYtNnrpoIAZu5DQWFfAuRvEUBFKKP06dwSwwWwx5VXIk7yCYeAYv5ZqA==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/battlePassRewardInfo/battlePassRewardInfo-20241007133121-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 16753,
+      "rows": 149,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "menuBoardInfo",
+      "md5": "85fea0aaef84e4f87bfa9372a761489d",
+      "hash": "3zMXZZ03ChwTLtggPbg+SssEGwEqMlvTgfNsWvY2JovXQTGuxk2wayAp0hqjyv5MJP4Rr4MldC6FbLr6bjtp",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/menuBoardInfo/menuBoardInfo-20241007000102-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 133,
+      "rows": 1,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "petFarmPetInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEQiTzvyn3FfifCF9XbcA==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/petFarmPetInfo/petFarmPetInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "chrononCardInfo",
+      "md5": "dd372aef1f02b75d0e167ca6d57749dc",
+      "hash": "Ext0/IHWzBr/xFeD/rYncq7I481QwXy5qTwoEh0h1zyBDwunvqkKKI8Nbnm/9Rwm8wMVq8o9UAF6D92ErIsFFPk=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/chrononCardInfo/chrononCardInfo-20241007200105-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 7679,
+      "rows": 29,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "summonerActiveSkillInfo",
+      "md5": "05bed028cb8392e8aeeefaab2faa2eec",
+      "hash": "jJbkKxWaSrDz6payCtTAy39Vx7JNImUHLRavKWIXhwlRabUuVVD40F4Rl30//Lmv4t6J7IHUmfBtujlOfMTF9741WwF7VtKB9w==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/summonerActiveSkillInfo/summonerActiveSkillInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 1252,
+      "rows": 12,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "summonerAttributeLevel",
+      "md5": "032343f8bf492754f4e576b35d9482db",
+      "hash": "lMXMqaYqj+IU1mGNEtznzpv3Zj767pRFmh7xDDna/ea367H7ssuOnTO4d89cR1AeDVALHyD9Y2sP4ukGyMF5JuD7fK1m93tX",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/summonerAttributeLevel/summonerAttributeLevel-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 4981,
+      "rows": 39,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "summonerRefineSkillInfo",
+      "md5": "a4f5dbf40ab5cb817ee5e2b961f017e1",
+      "hash": "0xI7QBa254vplnpoqDtHBFg1fd28Kn2v4t0Jr1+aRkcrzn9mYlXcBks8Kw+Uavi35Vq1gxC8Pdepi7WRzY2ed3Gv0LDFMT/LdQ==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/summonerRefineSkillInfo/summonerRefineSkillInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 8121,
+      "rows": 73,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "summonerFloorData",
+      "md5": "d14d5efe0f6cb74bbbcb2472bbc760a6",
+      "hash": "awbfxzaYv/Xkzkd3kEuWth3nSaOZzjYSYqR8cM/y1J4p+tfNKoVZsXVHTzrQUEVvAJ0jgjKnHIbYZtQ9ZVn8CLnGow==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/summonerFloorData/summonerFloorData-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 68279,
+      "rows": 375,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "summonerStoryUiMapping",
+      "md5": "ffb3c7f565921b6a4328ae8a8411c13b",
+      "hash": "ojKU7ZpU+vArT2gcCSEC7qbEwT9gNsQ7O9GBIg0tEEy2nbAvScB69GFlX8Kt3TboMaNszCo7YVpUxleqTwwq8vYa9xQhwbMQ",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/summonerStoryUiMapping/summonerStoryUiMapping-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 1830,
+      "rows": 12,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "martItemCategoryInfo",
+      "md5": "4039f38d1744aa41ff60e9a9f446d660",
+      "hash": "/sRqwZz8N7I2lBVUQjn51C2tnvIS1D3/wQ1e5QuyiZmKFz7ArK0/9Oh+a8dcMBKtzKVf1yw9GfhVrz/UOhNdn18SHHa6IA==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/martItemCategoryInfo/martItemCategoryInfo-20241007121329-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 27558,
+      "rows": 144,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "martItemRestrictionInfo",
+      "md5": "7343596ad94533589c272a6847ee9951",
+      "hash": "u+6X2y51lG5Zwr1KRag47AfUvTeEzgooywu/JZaenOnVfAhYqWBkj/SUWhPHXYbSTeBhzlRmEL8y8EkqGfZhR0U2OZ5hc1LieQ==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/martItemRestrictionInfo/martItemRestrictionInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 2738,
+      "rows": 22,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "martItemPromotionSchedule",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIENjTrd4nvNQxLEMdbSa0G3LkZDyfQ+Yy1i",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/martItemPromotionSchedule/martItemPromotionSchedule-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "martItemInfo",
+      "md5": "e0583290b3eab62a987e7d1723f91fec",
+      "hash": "rqFPMOkSIUKiGL7xU/PUS/a4+evoi7PvgBceY+Zqi+v3x8dN3/L6nMAKer1cyBRyM0cCTKx6fqTUj3hGgwg=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/martItemInfo/martItemInfo-20241007121329-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 104751,
+      "rows": 280,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "miniGameModuleInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIENhSbA7G7FSw/ZOs7RemG2Jno=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/miniGameModuleInfo/miniGameModuleInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "realmExplorationMazeInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIESiSnFxkrQXi7ZLNrJdke2DXRaxNg0cC4=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/realmExplorationMazeInfo/realmExplorationMazeInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "realmExplorationMazeLevelInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIESiSnFxkrQXi7ZLNrJdke2DXRaxN0/YCRrXBlUEA==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/realmExplorationMazeLevelInfo/realmExplorationMazeLevelInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "realmExplorationMazeLevelScheduleInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIESiSnFxkrQXi7ZLNrJdke2DXRaxN0/YCRrRhRaGmoo7YNcQYGp",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/realmExplorationMazeLevelScheduleInfo/realmExplorationMazeLevelScheduleInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "realmExplorationMazeMapPieceInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIESiSnFxkrQXi7ZLNrJdke2DXRaxNw7ZhFucBRXNmA77g==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/realmExplorationMazeMapPieceInfo/realmExplorationMazeMapPieceInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "boardGameRouteInfo",
+      "md5": "9d77658b81b56272acfd137a49426c41",
+      "hash": "zwhOMT1Mf7iKmeP3smz8lMKbZ2gooO5lPa5jOnbnAepG40PZbwM3NkgC9f4RHNp2LG8gegJQJu6jfIvvyZzLn7Xi2Bo=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/boardGameRouteInfo/boardGameRouteInfo-20241009125923-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 5923,
+      "rows": 3,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "stickers",
+      "md5": "c9b48d97257ea817c3444bbdfddc8590",
+      "hash": "DRVeTvu8zmazq0tn1uQPE+mvyyYmpd/fDaItNxzHTo+E3/qmpAeV7H7lnhYapq8a1OZz12Gfe4JqCQ==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/stickers/stickers-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 1348,
+      "rows": 39,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "arenaBossSkills",
+      "md5": "5635351f38067e535a96dd567a54e572",
+      "hash": "qmoskaWVjq+2x+p8zIHG8orcdA9JDljHk68JJLLBJ1/Bp/Cz7/xcjmVOfufqsX1XCYjfs6qefTEt3bBuGW4YQ4c=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/arenaBossSkills/arenaBossSkills-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 9914,
+      "rows": 147,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "essenceSkillGenerate",
+      "md5": "074d4c6a89168ced1041722dc725a727",
+      "hash": "nzeJ74s0F5cwhsyXqZAQXa1MnMcHbiQ7GnuzYmo64aOILUJqhagW4lMpTmDZbVQPBBL16X22ZNRL5pCivNFyeaB5dVH0gA==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/essenceSkillGenerate/essenceSkillGenerate-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 7814,
+      "rows": 293,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "monsterEvolve",
+      "md5": "0263f4511e032cd5f2b436b13aec9c6d",
+      "hash": "P9JDBbswR46554BSQj+JWBnHPSIlYcW/gsOdx9cXPaSNa5Z0PPCcqvzkiw2GN0pHkGdHh/tKq5Awsutf2STP",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/monsterEvolve/monsterEvolve-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 54645,
+      "rows": 1691,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "missionEvent",
+      "md5": "71ac1a19cbcdfbf620ea4dc4657246d5",
+      "hash": "9ltcjV0yQfkl6MA7xHdXBKm1YMaVmQGTqf9Z3XjQ83ec1G9uoEpk0HfQn4YKua9r4R7rTq02rYVwf3IVUx4=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/missionEvent/missionEvent-20241009161015-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 19171,
+      "rows": 38,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "monsterSkins",
+      "md5": "dd7ff299fec16f7b98f73549a77f6b2d",
+      "hash": "lNwE7qaOGxhrOqjSp5DqcSRnrIZtd5SjU+8UogBwDkOaOYIso8n7G+HEeOWXNNBn/DP8lK/6L19YhqN3IQM=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/monsterSkins/monsterSkins-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 41693,
+      "rows": 606,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "promotionDeepLink",
+      "md5": "3bfc46d337fb8a9ee2748886104d66c6",
+      "hash": "exk9RJd0E9gtefVVKxWp13lzJV7Y/VasX2fbisTLKWReWnmeCp/pDwmLnkYFPlC4fS17aBoZEm9g6PRNH8vpkcGOPA==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/promotionDeepLink/promotionDeepLink-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 445,
+      "rows": 1,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "slotMachineItem",
+      "md5": "72b79be2ac5300e9dd25bcb2f866462d",
+      "hash": "4Jyg2clb4kYQGDvl4PM4lOKbHTd6x3MIJdKG2U52Q39bSXNv+1xOPsMuGI2SFXVhY/g2Al+iIINTJ+rjt6YKeqQ=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/slotMachineItem/slotMachineItem-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 2630,
+      "rows": 18,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "specialEffectEvent",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIETnC3Kwm7EayTQO9jJWl69LmE=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/specialEffectEvent/specialEffectEvent-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "checkinProducts",
+      "md5": "e3fbe64f69d076dab85b428fd9ac3344",
+      "hash": "O+SnTWvDGzrnwWC6lwFH/KohvI/PHsTzmgL3sqUeXbQlaFtauleD0VXrUuQfSniQZo/r+hQnTwMO029KD2fLGec=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/checkinProducts/checkinProducts-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 47,
+      "rows": 1,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "collectionList",
+      "md5": "f2cf6d18c916176bc9f625bbfaf9a771",
+      "hash": "KdF8EGQmsaZu2uorjtPK9f1hEbSLfr+4tRXD/meS9Iqp9LbiSE7RrIowEK1xaOndrlY/iiIVXh+dD1oiNsle9A==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/collectionList/collectionList-20241008122400-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 5118,
+      "rows": 32,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "defaultMultipleTeams",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEEiS7I3mPcYzfaKtLNc02MJXRN0g==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/defaultMultipleTeams/defaultMultipleTeams-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "defaultTeams",
+      "md5": "84d9f0905cbf10edeedf0c14e2be4f5a",
+      "hash": "KIWq/mF9xKgR+dilj56ndNl23EHNQfSERd0I3AL9k7+444+hsV2BsD+uXPUU/B0ch1Myn6puJkonT+ejM94=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/defaultTeams/defaultTeams-20241009162640-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 53360,
+      "rows": 285,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "diamonds",
+      "md5": "40153274cdf1e623335c2ba4f9989a52",
+      "hash": "a3UY/nrrX6Nykzk/o4UiuM5eOVfMRWhSvkKwIS7hR9XrZ3t7RWaOAAZeR2IeLiZwYCws30yDnKKgNQ==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/diamonds/diamonds-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 2849,
+      "rows": 30,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "eventZoneIcon",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEFmi3H31XHQCf/PdTT",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/eventZoneIcon/eventZoneIcon-20241002000103-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "loginBonusFloor",
+      "md5": "28bfeabd2c3ea4f3372aa9852a8e2119",
+      "hash": "2l2CAdN8e6LpcI+zuoj0ijL1da1lN+L/d6S1M9AntKBiPa7KADh8ThRKID4bSdwbHwVN6w5O4RZozT1otTixAg8=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/loginBonusFloor/loginBonusFloor-20241009161015-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 51,
+      "rows": 1,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "landingEvent",
+      "md5": "9b8c744555bd18912a2da8e72b47690f",
+      "hash": "Gv0RNJjj2sTLAW0PIp9CzNkkcnmasWvY7SMYBdccY2namYaKRegFFRvgmvkBAR4H5UJEkOAnAyQEMkctc7Q=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/landingEvent/landingEvent-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 185,
+      "rows": 1,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "luckyDrawCustomPool",
+      "md5": "d83af80324c0268f850687d62f337c2b",
+      "hash": "P9fSVMeF58otZMbEAWvGAAHXCUxTRCwwIxeJ6LEfNYCl89g/55SXHavPKWNOyCd24E8UsSXPe72pygcSvP2bcFYh3m1K",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/luckyDrawCustomPool/luckyDrawCustomPool-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 3172,
+      "rows": 65,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "slotMachineEvent",
+      "md5": "e4697647865da46ade76821f6d102546",
+      "hash": "Ot6MZMSVQU3+k7ryPMD3PX5QinzUpp5kjvNUXXvZaiSpOvwPsxxgeE7x7ITT9vnMQi8KpqR/lEtvqLzmEMjjAO7O",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/slotMachineEvent/slotMachineEvent-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 108,
+      "rows": 1,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "bgmSettingInfo",
+      "md5": "861c82c17e07c2036bdd0d23dd71c23e",
+      "hash": "sNpOWB0zCHqsXMVxBR3WgK06K+PSAvrTRi+pBzMmA1JN7Xkgziw+JTmTzeZCbWy+VF+nhm135RIAE30sRMdSLA==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/bgmSettingInfo/bgmSettingInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 26524,
+      "rows": 123,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "craftLuckyDrawSchedule",
+      "md5": "55e7c0b7768244197a8e3b7a526c0ddd",
+      "hash": "ishE5as6eazHattT9JdN2ajthP1tBearAwomTL+Y7hok8jG/TxgSCFsvYs0vdSTxeb/kTr6aXDNtXX7UmCemw2sC/dgYRDzN",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/craftLuckyDrawSchedule/craftLuckyDrawSchedule-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 652,
+      "rows": 1,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "craftLuckyDrawPool",
+      "md5": "019552ad1a83fcf5f9ff6e62b878b51e",
+      "hash": "nULkRtLTEwHPTcJVZPRTLMFck9NVoydOqMy1WAqQxZKqyza/O9ZyB5dgQS+KcqsuTnYOOAlre9zz0DAk8fmJN3mNTRQ=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/craftLuckyDrawPool/craftLuckyDrawPool-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 2186,
+      "rows": 5,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "craftWeaponMergeList",
+      "md5": "9d3759b6eddadb74b5fe5d2b81108462",
+      "hash": "hJxagn4lchvaGWUZDFe8KCYg9jUhpZmXJ8NSS4em4yVJNYQFOslEYQMZH0i0eubORN0v28R1tDmpI3N83rRUgIrtxHx/Aw==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/craftWeaponMergeList/craftWeaponMergeList-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 19786,
+      "rows": 778,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "monsterExchangeRewards",
+      "md5": "2ab2cc03d18da0c60c6a5a64fb247fc7",
+      "hash": "tQcdFFNRipkzlVoIreP7fn8+d9EHQPB5sL27gk46hfgTtk0fJKzgL0rVRakVZOd9xwAb9G8HghQ6tQOJlYuXhDjTzmbc0v8m",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/monsterExchangeRewards/monsterExchangeRewards-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 210,
+      "rows": 1,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "storyList",
+      "md5": "67f3138fd5fc82bc6c0249695c3f7c0a",
+      "hash": "7S2weUg8RCcRQUXmLzLZ9lGoAqpVYNQQbjE5E1TllXXKoecAKvAK7rrR6k74QE0Sk8wnY8Pt5nvxNxg=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/storyList/storyList-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 908,
+      "rows": 18,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "subNameList",
+      "md5": "0345551be2a8a5f0f93060b8ea863e22",
+      "hash": "aXTSNRapqb1pFUqRg88rMBD5YpLCZ6zJUXQOQpaoGcqqqVn5NDn+9z2X/F4YbAQaoZn635BgqU2kDiC7tg==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/subNameList/subNameList-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 22174,
+      "rows": 843,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "wallpaperInfo",
+      "md5": "d89564a195559dcc031715da9230eb59",
+      "hash": "Px1KeXDVUVIR2+j7N5/5PUux4iYQAaYSPxIQ82/rGEg2RKNp8Rp+CKUCqox7EaiSDHl07twet85xEhMm9/D6",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/wallpaperInfo/wallpaperInfo-20241006120103-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 37278,
+      "rows": 276,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "bgmEventSettingInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIECiyXs3WrGWhHTKs/UcU+RLnNP",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/bgmEventSettingInfo/bgmEventSettingInfo-20241007000102-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "budoBattle",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIECmSzG6W7cWi7T",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/budoBattle/budoBattle-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "skillLevelUpExpInfo",
+      "md5": "f240542325c77bb0269505f1bec44951",
+      "hash": "/47g2DXlfYBK+9L75GykUuGGYan3j2CQrl9NdCQNWxwdLQrRna7XCGq9rMaoWiHdjafBOlu1iRVEIyk+YCgde6Wbionr",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/skillLevelUpExpInfo/skillLevelUpExpInfo-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 2540,
+      "rows": 100,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "guildLevels",
+      "md5": "d30e0002af1d82735ff337c72e4d7cde",
+      "hash": "/IGk+InLykEL708bM6fK66lP/H87lQnL5ybRg7CahhoLtGe7jitLxJfBKkcTtjwLLq77I0NRC3d6NuGMKw==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/guildLevels/guildLevels-20240920210957-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 6196,
+      "rows": 30,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "kujiLuckyDrawEvent",
+      "md5": "6011e0b4f6e8a1bac371589daa8ebe70",
+      "hash": "IRBKKskY8ui6EHbcrR6Zb/kIReCWBuJs0Sc3LFfROqArRjjbAb5PMvX3eorkApi+l+NJ0H0gCH+tdiBZ3vlVI6a7ebY=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/kujiLuckyDrawEvent/kujiLuckyDrawEvent-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 3688,
+      "rows": 1,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "monsterExchangeList",
+      "md5": "917fe6c5a717e5a67d37f2b894fee324",
+      "hash": "bZZu7FCLcmB0m3O3jzn3CHSJr7QtxG0G3+1XTHJhCU81uLEztGCM9a1APk8SfBJKMl1y8bZcmH9L4BVsj3q7arDHVwI2",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/monsterExchangeList/monsterExchangeList-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 5313,
+      "rows": 120,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "inventoryMove",
+      "md5": "034225ce7e2b0614a5d3ea526b33ce2a",
+      "hash": "vslcWPpBMJsbsVQ1DViiZOvl33eUXkb+y/+9ZGF94wPzNGzRXMQ1oLInU4VJ2SvjEVUTgic4XcjjHrQo2lka",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/inventoryMove/inventoryMove-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 2503,
+      "rows": 63,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "packages",
+      "md5": "bab16d548ba878a5dac173bcdf00ca76",
+      "hash": "jYlxd7S159h5EndtPNWQj71ocdbTLRaBnCb9JlOI9bQoqqAIcUiCF5/pJZfPoeDJZ9ra1UvoHNrErQ==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/packages/packages-20241009125923-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 31285,
+      "rows": 634,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "paymentRewardInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEQjTHEzmHcfCfBP8nZVka+Lw==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/paymentRewardInfo/paymentRewardInfo-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "warMissionInfo",
+      "md5": "e0234245cb00aa260ccfa99a9a0b235e",
+      "hash": "68r1TRfm5MQnmUtVcEbhH9P+39f7sbt8PrNugf1T6M4QJj0TcppHUQ0vK4SmlfmfXIEXjTrkwnzbRy3YF9XbcA==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/warMissionInfo/warMissionInfo-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11,
+      "rows": 0,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "craftLuckyDraw",
+      "md5": "37569059617e9b64b2f3f6629b9cf365",
+      "hash": "kd3nWowbWjxqoTZjgJu1IGiIUvY+dqSai40FwIPMyJgLu5L3qzlfJ/lHE57qZA8UKDd3WR9CfNB7KM3kYZ15ZA==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/craftLuckyDraw/craftLuckyDraw-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 177,
+      "rows": 1,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "kujiLuckyDrawReward",
+      "md5": "d154c67c0efdfecaa05d8b2f63251dd9",
+      "hash": "uxg+DXlyLEw4szVWZErpaJ/yeDUM71STwQFmslXWiXUPaSJJkspjczuKC6sP+YAxxhC7W2QIn/hJtU+NDwWpNmy2GGSu",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/kujiLuckyDrawReward/kujiLuckyDrawReward-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 477,
+      "rows": 5,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "kujiLuckyDrawPool",
+      "md5": "bad4391b37f5016c72ff67597bc38a50",
+      "hash": "yPYjsL0kNXhqyzBdBuqlWd4Ft45r5jVLSN8wttgf9OQTR/Vtv9nEhaaDNJRldkODk/PPaNJ6CaOFlvBXOKROPa7CCg==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/kujiLuckyDrawPool/kujiLuckyDrawPool-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 963,
+      "rows": 25,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "packageItems",
+      "md5": "895e00a018eec548405e7b4ed9c2628c",
+      "hash": "NXTxGqpAI9b03MUj45VsbLno0GzsOsjjvFuXXiBtthkGpiYhGX6MpmQF/0PaovQ0RYsKC5NwKb2BEKuSOcc=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/packageItems/packageItems-20241009130245-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 93648,
+      "rows": 4132,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "cardMergeUpInfo",
+      "md5": "78487a4136ba1fc3110a8c650d3d6c5b",
+      "hash": "mE3i6VSaan2RPGNzghyrub0if+y0K9uD1/fIlYPInFxtgztCkI0k4YZeA8m2m6Ig/UByy8bjaF6w6xnECEFAX9A=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/cardMergeUpInfo/cardMergeUpInfo-20241009140106-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 158,
+      "rows": 1,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "nameplateDecoration",
+      "md5": "6d6b81d3e71e026fb8e4e48b81b3c1b3",
+      "hash": "wRhh2Mz9t+PvLGWxwXuzidowb8wC4hhqnm3iLtSr3ffYvxPIKw2StXWaBXaPvRaLR5/nbrQ+M8Qtzh8Kp9W8Eb9TY9Sa",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/nameplateDecoration/nameplateDecoration-20241003172925-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 7865,
+      "rows": 111,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "auraPreset",
+      "md5": "c9e92f47d8e0443a4c95a1d4c3fc019b",
+      "hash": "MANBT3UnzlotfdTwhBocnyS2aMYpOZM2I18PC6IQ6gD53g93GnJOQpYTch9vsGka4O5wP7FoR9hTjh8N",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/auraPreset/auraPreset-20241007200105-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 3143,
+      "rows": 54,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "localNotificationInfo",
+      "md5": "deef2936f53beff66ffcca78178d61e7",
+      "hash": "IgIwFjUAyFjvm23XY5ClSCHVaqNuZI9L6h98EGlt2ewk+Eudcq54ZrJLoQ6Fc68y0kJX9zs8FESOtn6HyBo/eMFClNUwChQ=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/localNotificationInfo/localNotificationInfo-20241007114140-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 1960,
+      "rows": 4,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "mapEventEntranceInfo",
+      "md5": "767977ed70572fd6affd2162c8b5af79",
+      "hash": "wcoP+A7DGKhyKPAO0HhV3bZwM3Du1O7C2/gjc9P/FQWhZREc21hWkEhfABJEiX5yb89QinpdhtsLHsmN6zFJd9gceEfobQ==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/mapEventEntranceInfo/mapEventEntranceInfo-20241007000102-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 436,
+      "rows": 1,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "marqueeInfo",
+      "md5": "b31413e3d7b2fe4bf7a1edeb1b5985a2",
+      "hash": "8ef4S7GIVbzQCHConDOT89eNsJhuN2xSXiqXIpQbCNOt2L6TeaKEdE1kOEgjzuS7zHUtGvYC86dQNn4RvQ==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/marqueeInfo/marqueeInfo-20241007122052-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 3904,
+      "rows": 5,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "bannerInfo",
+      "md5": "8afe9ef4a83a8b3aaab541ada9c3fb34",
+      "hash": "jqvsdUVAFjkUuDH4vND09mjIx+bn2MSd72eB4Vg/evACo2pQnPGz8OIRAT7AeFDiJ0zPn4xSsMMco+88",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/bannerInfo/bannerInfo-20241009125924-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 27824,
+      "rows": 28,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "dragonList",
+      "md5": "38cc927e6b963e97b5c5dbf8e83385c4",
+      "hash": "c5/Zm9T9HD9feUPUSS2oUAPKn+382kxL2SmO56OY1ZTryu0Js6RZL1s83zDk43XtIor+Npm4W+cza80r",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/dragonList/dragonList-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 418550,
+      "rows": 2872,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "monsterBondingInfo",
+      "md5": "fec67ab71850564a0642f018f3d3d7f4",
+      "hash": "dGaJ8KLgKUGj+FiQ2qygwSiA89VJVsUWwnTLuY6PokY87to30DZku5Y+MTTWA1m91PxD6Qajmcex9IYdUuQpY4bZmGA=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/monsterBondingInfo/monsterBondingInfo-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 17914,
+      "rows": 551,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "monsters",
+      "md5": "a3e623ea7d95988973e8dcb1f9276ecf",
+      "hash": "KiPjZQrytm3ksa/hI8yJKDrUiRJehF2NZqUtndzPlHSivbHLpjfCSSkwLy+sBaaNegMafbiUSnyoBg==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/monsters/monsters-20241009154643-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 987426,
+      "rows": 4533,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "teamSkills",
+      "md5": "fa20dfb4eefac1303bdcf13d661d219e",
+      "hash": "DnK5KPvj/TQwfzliFZoBxh0nnkMfZGr+lglsdTtdiP4TvD8DWb0LtWu/JTAdFjP7OYH+A8OnY3mFhjfb",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/teamSkills/teamSkills-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 63989,
+      "rows": 1683,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "combinedNormalSkills",
+      "md5": "a642ba9c5630a4cf1a5f71e6285ebaf4",
+      "hash": "WoNJlfjDmAG5mTmRchNSasbliJ7IXPIioIsX7mZsjUIEPi1rGtv/vI1sLMppv4GZ0zhltL0A0kU1uF2ElxwAWLRPh+V79g==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/combinedNormalSkills/combinedNormalSkills-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 11465,
+      "rows": 301,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "luckyDrawSchedule",
+      "md5": "419534ccc96442a31d24a3ea9b757689",
+      "hash": "imVAaZ061L/1DuVfOkQuGlSBep2LJx+SiAuDslIEuC4Mplab93nfxw3+LVt1+fGPk5PtiC/+yEpa5zV+b5gVqyNCsA==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/luckyDrawSchedule/luckyDrawSchedule-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 16058,
+      "rows": 10,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "normalSkills",
+      "md5": "74d61e48fdb848a8cdaa8a33c2838227",
+      "hash": "+WS0SCZMAinCU9M4VpVu8kTKeigARbPTgnNGsR9+BRB7SGmjhNsIW7uEOSOiRq9kPoimr6gzahAXEXducKs=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/normalSkills/normalSkills-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 98135,
+      "rows": 4689,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "assetLibrary",
+      "md5": "05b0288f774a54a27629115097a0599f",
+      "hash": "CMSl+gAgODHPc9byJ7aW77MNblO3ObAS3WAfDhCJPXdwNiMyIRQRpLQzYWmt0pmcvj3WryoIfTqbjNn4mUA=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/assetLibrary/assetLibrary-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 196948,
+      "rows": 3017,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "luckyDrawMachine",
+      "md5": "0603627f4fecf757c49c1b35448f879c",
+      "hash": "aEdcx8cuiCmcXmo0DaurRbSCLe8DvHHGgIhBb39o7ttmlClAFJ97wM/UuRZQGzEzbiFIFtwgrAoSI0ggabmxwQYf",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/luckyDrawMachine/luckyDrawMachine-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 2956,
+      "rows": 10,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "luckyDrawPoolMonster",
+      "md5": "2acf3785af7827db66964f4fb9483e2b",
+      "hash": "afCu2dwI7UkxZJpM0lUBcbfHzlQpjm4YEpcokn5WBIsiSIUhPQRtQyTSH+e1gyB6Exz2YlubtOcm2kmsxyDIMRhYwVpqGQ==",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/luckyDrawPoolMonster/luckyDrawPoolMonster-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 43966,
+      "rows": 24,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "gameItems",
+      "md5": "a027f4139fd02491b45fd9e567a032bf",
+      "hash": "lX50jRV4VFqCARzb3OxnPWY3J7+5jUHWLArkVW5zyxZCDfXsxg+QTNJq+QCIdWAtJ9RDCBM9v1vQjY8=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/gameItems/gameItems-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 44494,
+      "rows": 124,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "monsterRefine",
+      "md5": "8a5235fa3d02afb362bee80ccb7efdd1",
+      "hash": "wOvsOgk1nfUOPPzaj+qxvqQYuAOkc5l+hL1qORfTeE2omXld4BuD2ewOG0Qrgd4NU50xxowjYVGQ3H+wojck",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/monsterRefine/monsterRefine-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 657108,
+      "rows": 908,
+      "versionId": "2024.600"
+    },
+    {
+      "name": "luckyDrawGuarantee",
+      "md5": "c0ad896a208f0db7f460d7e7eb3fbcd2",
+      "hash": "ok3E6rQd/6yW9IeYSV/767YFpit2iPvPG4lX0g7O4v5S0zDghrVD/BoYGu2RXJBn5XWC+dnarOOgCbwLkVMk97eydEw=",
+      "url": "https://cf.tosconfig.com/gameAssets/com.madhead.tos.zh/2024.600-OGNjMTk3NTc4YTgy/public/luckyDrawGuarantee/luckyDrawGuarantee-20241008120109-d945e70c35de36215b5cfb6cdf7affd9.json",
+      "size": 2555,
+      "rows": 11,
+      "versionId": "2024.600"
+    }
+  ]
+}
